@@ -1,2 +1,2 @@
-# CodeLab
-A collection of short personal made projects
+# _CodeLab_
+_A collection of short personal made projects_
